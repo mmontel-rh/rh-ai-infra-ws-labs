@@ -15,3 +15,7 @@ The **Accelerators Integration with Openshift AI module** is a core part of the 
 ##  🎢  Module 3 - [ Distributed Inference](3-distributed-inference/README.md)
 
 **Production Inference with Openshift AI** is a half day module focused on achieving scalable and high-performance inference. The curriculum is structured around four main topics: Fundamentals of Model Serving, Serving GenAI and Predictive models, LLMs Distributed Inference, and Benchmark. The foundational section introduces Red Hat OpenShift AI (RHOAI) as a comprehensive model serving platform that leverages KServe to simplify deploying and managing AI models by handling infrastructure, autoscaling, monitoring, and lifecycle management for production-ready environments. This transformation turns static model artifacts into live, accessible endpoints that applications can use to generate predictions or other content.
+
+##  🏋️  Module 4 - [ Distributed Training](4-distributed-training/README.md)
+
+**Distributed Training with OpenShift AI** covers scaling model training across multiple nodes and GPUs. Participants enable distributed-workloads components in the DataScienceCluster, explore different templates for creating jobs and managing cluster resources, and run a hands-on distributed training tasks with Kueue-backed resource admission.

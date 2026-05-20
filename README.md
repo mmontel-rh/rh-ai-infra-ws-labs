@@ -9,6 +9,7 @@ This repository contains documentation and materials for the Openshift AI infras
 - Accelerator configuration
 - Deployment best practices
 - Distributed Inference
+- Distributed Training
 - Model as a Service
 - Monitoring AI workloads
 

@@ -31,3 +31,7 @@
   * [3.4. Benchmark in vLLM and llm-d](3-distributed-inference/4-benchmark.md)
     * [3.4.1 Deploy `llama-vllm` model](3-distributed-inference/4-benchmark.md#deploy-llama-vllm-model)
     * [3.4.2 Explore vLLM metrics endpoint](3-distributed-inference/4-benchmark.md#explore-vllm-metrics-endpoint)
+
+* 🏋️ Module 4 [Distributed Training](4-distributed-training/README.md)
+  * [4.1. Enable Distributed Training Components](4-distributed-training/1-enable-distributed-training.md)
+  <!-- * [4.2. Training Runtimes](4-distributed-training/2-distributed-training.md) -->
