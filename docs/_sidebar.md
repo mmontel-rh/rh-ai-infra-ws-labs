@@ -23,7 +23,7 @@
 * 🎢 Module 3 [Distributed Inference](3-distributed-inference/README.md)
   * [3.1. Review Openshift AI Components](3-distributed-inference/1-review-ocp-ai.md)
     * [3.1.1 Red Hat OpenShift AI — Operators and requirements](3-distributed-inference/1-review-ocp-ai.md#red-hat-openshift-ai--operators-and-requirements)
-    * [3.1.2 Red Hat OpenShift AI — DSP configuration](3-distributed-inference/1-review-ocp-ai.md#red-hat-openshift-ai--dsp-configuration)
+    * [3.1.2 Red Hat OpenShift AI — DSP configuration](3-distributed-inference/1-review-ocp-ai.md#red-hat-openshift-ai-dsp-configuration)
     * [3.1.3 Create a ServingRuntime and an InferenceService](3-distributed-inference/1-review-ocp-ai.md#create-a-servingruntime-and-an-inferenceservice)
     * [3.1.4 Inference service components](3-distributed-inference/1-review-ocp-ai.md#inference-service-components)
   * [3.2. Playing with llm-d](3-distributed-inference/3-llmd.md)
